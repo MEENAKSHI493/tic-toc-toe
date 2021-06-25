@@ -10,8 +10,6 @@ private static char[] element;
 		board();
 	}
 	
-   
-	
 	private static void board() {
 		element = new char[10];
 		for(int i=1; i<10; i++) {
